@@ -1,0 +1,14 @@
+        scroll = ScrollView()
+        list_view = MDList()
+        scroll.add_widget(list_view)
+
+        for i in range(20):
+            # icon = IconLeftWidget(icon="rocket-launch")
+            image = ImageLeftWidget(source="naruto.jpg")
+            items = ThreeLineAvatarListItem(text='New Release ' + str(i),secondary_text = 'Tripsta',
+                                      tertiary_text ='Follow Link')
+            items.add_widget(image)
+            list_view.add_widget(items)
+
+
+        screen.add_widget(scroll)

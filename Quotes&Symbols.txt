@@ -1,0 +1,13 @@
+Tickers/Symbols Crypto
+
+BTC/USD - Bitcoin
+
+ETH/USD - Ethereum
+
+BCH/USD - Bitcoin Cash
+
+AAVE/USD - Aave
+
+GRT/USD - The Graph
+
+BAT/USD - Basic Attention Token
